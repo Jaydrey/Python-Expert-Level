@@ -36,7 +36,7 @@ print(x.name)
 # we can create our class as an instance of the type class like so above.
 class Person:
     name = 'Jarib'
-    age = 20
+    age = 22
 
 print(Person.age)
 
